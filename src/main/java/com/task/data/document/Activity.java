@@ -22,7 +22,6 @@ public class Activity {
     private LocalDateTime start;
     private LocalDateTime finish;
     private String description;
-//    private ActivityStatus status;
 
     public String getId() {
         return id;
